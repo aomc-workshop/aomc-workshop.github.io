@@ -57,7 +57,7 @@
     width: 340px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 50vw;
+  min-height: 758px;
 }
 
 .u-section-2 .u-text-1 {
@@ -69,7 +69,22 @@
 }
 
 .u-section-2 .u-text-3 {
-  margin: 27px 0;
+  margin: 27px 0 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-icon-1 {
+  font-size: 1.5556em;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }.u-section-3 .u-sheet-1 {
   min-height: 235px;
 }
